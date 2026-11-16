@@ -17,6 +17,7 @@ namespace Tyuiu.KupriyanovNM.Sprint3.Task0.V28.Test
             double wait = 2;
 
             Assert.AreEqual(wait, res);
+            //123
         }
     }
 }

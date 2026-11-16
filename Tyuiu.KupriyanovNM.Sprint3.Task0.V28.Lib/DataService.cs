@@ -15,6 +15,7 @@ namespace Tyuiu.KupriyanovNM.Sprint3.Task0.V28.Lib
             multiplySeries = multiplySeries + 2;
 
             return Math.Round(multiplySeries, 3);
+            //123
         }
     }
 }

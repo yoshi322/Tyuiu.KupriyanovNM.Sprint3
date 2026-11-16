@@ -26,9 +26,9 @@ namespace Tyuiu.KupriyanovNM.Sprint3.Task0.V28
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("X = " + value);
-            Console.WriteLine("Начальное значение = " + startValue);
-            Console.WriteLine("Конечное значение = " + stopValue);
+            Console.WriteLine("x = " + value);
+            Console.WriteLine("начальное значение = " + startValue);
+            Console.WriteLine("конечное значение = " + stopValue);
 
             double result = ds.GetMultiplySeries(
                 value,
